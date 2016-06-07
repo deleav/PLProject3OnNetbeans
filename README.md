@@ -2,6 +2,7 @@
   * a compiler with simple C
   * 每次進 {} 就要 push 一個 scope 到 stack
   * 出 {} pop
+  * 目前沒做 cout << ( cout << 5 ); 功能
 
 ```
 /*
